@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787724160504,
+      "tag": "0000_calm_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787724823261,
+      "tag": "0001_fat_dragon_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787729882911,
+      "tag": "0002_bitter_james_howlett",
+      "breakpoints": true
+    }
+  ]
+}
